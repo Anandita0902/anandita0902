@@ -12,8 +12,6 @@
 
 <img align="right" height="200" src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?t=st=1746180819~exp=1746184419~hmac=30e28607eef2a4dcbd24f3e6a7301dcd9e911bb5f55be8b1162e37b489b16be6&w=740"  />
 
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="14" />
