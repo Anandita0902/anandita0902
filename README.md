@@ -44,5 +44,5 @@
 
 ---
 
-<h3 align="left🔨 Commit History:</h3>
+<h3 align="left">🔨 Commit History:</h3>
 <img src="https://raw.githubusercontent.com/Anandita0902/Anandita0902/output/snake.svg" alt="Snake animation" />
