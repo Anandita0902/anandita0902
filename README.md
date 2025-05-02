@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi Anandita Here...👋! <br>Just another developer fixing bugs I proudly introduced yesterday.</h2>
 
-###
+---
 
 <br clear="both">
 
@@ -10,11 +10,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anandita0902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <img align="right" height="200" src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?t=st=1746180819~exp=1746184419~hmac=30e28607eef2a4dcbd24f3e6a7301dcd9e911bb5f55be8b1162e37b489b16be6&w=740"  />
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <a href="mailto:ananditababar@gmail.com" target="_blank">
@@ -44,4 +44,4 @@
   </a>
 </div>
 
-###
+---
