@@ -41,3 +41,5 @@
 </div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/Anandita0902/Anandita0902/output/snake.svg" alt="Snake animation" />
