@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi  Anandita Here...👋! <br>Just another developer fixing bugs I proudly introduced yesterday.</h2>
+<h2 align="center">Hi Anandita Here...👋! <br>Just another developer fixing bugs I proudly introduced yesterday.</h2>
 
 ###
 
